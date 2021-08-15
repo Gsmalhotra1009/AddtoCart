@@ -1,0 +1,14 @@
+2021-08-15 16:12:02 INFO  - [class com.ebay.runner.CukeRunner] : Initiating Loggers Instance with file name: eBAYLogger_08_15_2021 16_12_02
+2021-08-15 16:12:02 INFO  - [class com.ebay.runner.CukeRunner] : Initiating Extent Reports Instance with file name: eBAYReport08_15_2021 16_12_02
+2021-08-15 16:49:41 INFO  - [class com.ebay.runner.CukeRunner] : Initiating drivers
+2021-08-15 16:49:41 INFO  - [class com.ebay.initdrivers.Driverbase] : Setup the new driver
+2021-08-15 16:49:47 INFO  - [class com.ebay.initdrivers.Driverbase] : Created Chrome driver instace
+2021-08-15 16:49:47 INFO  - [class com.ebay.initdrivers.Driverbase] : Maximize the explorer window
+2021-08-15 16:49:47 INFO  - [class com.ebay.runner.CukeRunner] : Initialisation of drivers is completed successfully
+2021-08-15 16:49:47 INFO  - [class com.ebay.runner.CukeRunner] : Initiating drivers
+2021-08-15 16:49:47 INFO  - [class com.ebay.runner.CukeRunner] : Initialisation of drivers is completed successfully
+2021-08-15 16:49:47 DEBUG - FileName set to C:\Users\Gundeep_Singh\eclipse-workspace\AddToCart\src\main\java\com\ebay\config\Logger.properties
+2021-08-15 16:49:47 DEBUG - ConfigurationUtils.locate(): base is null, name is C:\Users\Gundeep_Singh\eclipse-workspace\AddToCart\src\main\java\com\ebay\config\Logger.properties
+2021-08-15 16:49:47 DEBUG - Could not locate file C:\Users\Gundeep_Singh\eclipse-workspace\AddToCart\src\main\java\com\ebay\config\Logger.properties at null: unknown protocol: c
+2021-08-15 16:49:47 DEBUG - Loading configuration from the absolute path C:\Users\Gundeep_Singh\eclipse-workspace\AddToCart\src\main\java\com\ebay\config\Logger.properties
+2021-08-15 16:49:47 DEBUG - Base path set to file:///C:/Users/Gundeep_Singh/eclipse-workspace/AddToCart/src/main/java/com/ebay/config/Logger.properties
