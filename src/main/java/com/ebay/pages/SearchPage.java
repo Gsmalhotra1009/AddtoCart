@@ -10,7 +10,7 @@ public class SearchPage {
 	
 
 	//Page factory
-		@FindBy(xpath="//a/h3[text()='Apple iPhone XR - 128GB - (PRODUCT)RED (Verizon) A1984 (CDMA + GSM)']")
+		@FindBy(xpath="//img[@class='s-item__image-img' and @src='https://i.ebayimg.com/thumbs/images/g/IYAAAOSwXtFiOInB/s-l225.webp']")
 		WebElement itemToBecliked;
 	
 	public SearchPage() {
