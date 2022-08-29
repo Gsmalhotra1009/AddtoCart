@@ -12,7 +12,7 @@ public class Item {
 	@FindBy(xpath="//select[@id='msku-sel-1']/option[@id='msku-opt-2']")
 	WebElement colorNameDropdown;
 	
-	@FindBy(id="isCartBtn_btn")
+	@FindBy(xpath="//span[@class='ux-call-to-action__text' and text()='Add to cart']")
 	WebElement btnAddToCart;
 	
 	public Item() {
@@ -21,6 +21,7 @@ public class Item {
 	
 	
 	public String validateTheItemhPageTitle() {
+		System.out.println(Driverbase.getDriver().getTitle());
 		return Driverbase.getDriver().getTitle();
 	}
 

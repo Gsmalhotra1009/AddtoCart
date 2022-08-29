@@ -10,7 +10,7 @@ public class SearchPage {
 	
 
 	//Page factory
-		@FindBy(xpath="//a/h3[text()='Apple iPhone 8 Plus 64GB Factory Unlocked AT&T Verizon T-Mobile Unlocked']")
+		@FindBy(xpath="//a/h3[text()='Apple iPhone XR - 128GB - (PRODUCT)RED (Verizon) A1984 (CDMA + GSM)']")
 		WebElement itemToBecliked;
 	
 	public SearchPage() {
